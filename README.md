@@ -6,6 +6,13 @@
 
 **ABOUT:** A VR experience where the user interacts with LLM powered NPCs using gestures
 
+1. The avatar asks a one handed/two handed gesture question
+2. The user provides the pose
+3. After holding the pose for x seconds the screenshot is taken and sent to the GPT-4o API
+4. The API takes the image and prompt for context and returns a response
+5. Additionally the user gets to interact with a shopping environment where they meet more such npcs
+6. The user's shopping task involves collecting items from a generated shopping list based on the items in the shop
+
 **MOTIVATION:** 
 
 - Test Gestures as a viable input method
