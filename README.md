@@ -3,6 +3,11 @@
 
 **ABOUT:** A VR experience where the user interacts with LLM powered NPCs using gestures
 
+**Motivation:** 
+- Test Gestures as a viable input method
+- Test image recognition capabilities of LLMs out-of-the-box
+- Underresearched topic
+
 **KEYWORDS:** LLM, NPC, Gesture Recognition, VR
 
 **RESEARCH QUESTIONS**
@@ -11,12 +16,21 @@
 - RQ3: How does the model impact the user experience in a given scenario? (uniqueness of responses)
 
 **STUDY:** 
-- 2 Part experiment: Gesture Recognition and Speech To Text
+- 2 Part experiment: Gesture Recognition and Speech To Text 
 - 4 Curated questionnaires
 - Post-study discussion
+- Total Study time (~ 45 mins)
 
 **SCENE DEVELOPMENT**
 _Design Principles:_ 
-- Minimalistic: Low cost on performance, minimal UI
+- Minimalistic: Low cost on performance, minimal UI, out-of-the-box performance testing
 - Accessible: Widely Available and cheap/free hardware/software, ease of use for all demographic
 - Immersive: Realistic scenario setup, animated avatars
+
+_Tools:_
+- **Meshes/Textures/Illustrations**: Blender, Substance Painter, Photoshop, Illustrator
+- **Characters**: Adobe Mixamo
+- **Audio**: Pixabay, Elevenlabs
+- **Input Type Handling**: OpenAI GPT-4o Chat Completions, Open AI Whisper STT
+- **VR Scene Setup**: Unity, Meta Quest 2 VR
+- **Scripting and Data Visalisation**: C#, Python
