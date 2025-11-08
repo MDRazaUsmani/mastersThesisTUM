@@ -69,10 +69,14 @@ _Quest Design:_
 - Low response uniqueness (unique questions asked by the LLM): 15.1%
 
 _Learning Outcomes:_
--Models are still very slow at image recognition for lifelike NPCs (6.83s)
+
+- Models are still very slow at image recognition for lifelike NPCs (6.83s)
 - Foundation models provide acceptable GR results (73.6%)
 - Subsequent runs leads to repetition of content from the LLM
 - Good UX design is important to mitigate certain issues
   - Motion sickness concerns for new users
   - Mask lengthy waiting times
+ 
+## Advertisement Poster - Call for Participation
+![Call for Participation](/images/flip1.png "Call for Participation Poster")
 
