@@ -51,7 +51,7 @@ _Tools:_
 _Quest Design:_
 
 ![Detailed Quest Desing](/images/QuestFlowDetailed.png "Detailed Quest Flow Diagram")
-<img src="/images/QD-calibration.png" width="250" height="auto"><img src="/images/QD-openInterpretation.png" width="250" height="auto"><img src="/images/QD-TaskCompletion.png" width="250" height="auto">
+<img src="/images/QD-calibration.PNG" width="250" height="auto"><img src="/images/QD-openInterpretation.PNG" width="250" height="auto"><img src="/images/QD-TaskCompletion.PNG" width="250" height="auto">
 
 1. Calibration
 2. Open Interpretation
