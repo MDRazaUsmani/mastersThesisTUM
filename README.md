@@ -6,7 +6,7 @@
 
 **ABOUT:** A VR experience where the user interacts with LLM powered NPCs using gestures
 
-**Motivation:** 
+**MOTIVATION:** 
 
 - Test Gestures as a viable input method
 - Test image recognition capabilities of LLMs out-of-the-box
@@ -57,10 +57,7 @@ _Quest Design:_
 3. Task Completion
 
 
-
-**RESULTS:**
-
-_Gesture Recognition_
+**RESULTS -  Gesture Recognition:**
 
 - High average response time per pose: 6.83s
 - Moderate response accuracy: 73.6%
