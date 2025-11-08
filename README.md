@@ -1,5 +1,5 @@
 # mastersThesisTUM
-**TOPIC:** [Evaluating the Efficiency of Human-AI Interaction in Virtual Reality Using Foundation Models](/MastersThesis-CIT-VR-03737381.pdf)
+**TOPIC:** <h1>[Evaluating the Efficiency of Human-AI Interaction in Virtual Reality Using Foundation Models](/MastersThesis-CIT-VR-03737381.pdf)</h1>
 
 <img src="/images/outside.png" width="400" height="auto"><img src="/images/inside.PNG" width="400" height="auto">
 
