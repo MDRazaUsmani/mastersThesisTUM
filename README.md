@@ -1,7 +1,7 @@
 # mastersThesisTUM
 **TOPIC:** Evaluating the Efficiency of Human-AI Interaction in Virtual Reality Using Foundation Models
 
-<img src="/images/inside.PNG" width="200" height="auto"><img src="/images/outside.png" width="200" height="auto">
+<img src="/images/inside.PNG" width="400" height="auto"><img src="/images/outside.png" width="400" height="auto">
 
 
 ![Detailed Quest Desing](/images/QuestFlowDetailed.png "Detailed Quest Flow Diagram")
