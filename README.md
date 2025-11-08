@@ -22,6 +22,10 @@
 
 **STUDY:** 
 
+<img src="/images/GRM_Pose2.png" width="250" height="auto">
+<img src="/images/GRM_Think.png" width="250" height="auto">
+<img src="/images/GRM_Answer.png" width="250" height="auto">
+
 - 2 Part experiment: Gesture Recognition and Speech To Text 
 - 4 Curated questionnaires
 - Post-study discussion
@@ -37,7 +41,7 @@ _Design Principles:_
 
 _Tools:_
 
-<img src="/images/itemsmodeltexture.png" width="400" height="auto"><img src="/images/itemlabels.png" width="400" height="auto">
+<img src="/images/itemsmodeltexture.png" width="400" height="auto"><img src="/images/itemlabels.PNG" width="400" height="auto">
 
 - **Meshes/Textures/Illustrations**: Blender, Substance Painter, Photoshop, Illustrator
 - **Characters**: Adobe Mixamo
