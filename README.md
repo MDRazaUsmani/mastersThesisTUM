@@ -6,6 +6,8 @@
 
 **ABOUT:** A VR experience where the user interacts with LLM powered NPCs using gestures
 
+<img src="/images/GRM_Pose2.png" width="250" height="auto"><img src="/images/GRM_Think.png" width="250" height="auto"><img src="/images/GRM_Answer.png" width="250" height="auto">
+
 1. The avatar asks a one handed/two handed gesture question
 2. The user provides the pose
 3. After holding the pose for x seconds the screenshot is taken and sent to the GPT-4o API
@@ -29,7 +31,6 @@
 
 **STUDY:** 
 
-<img src="/images/GRM_Pose2.png" width="250" height="auto"><img src="/images/GRM_Think.png" width="250" height="auto"><img src="/images/GRM_Answer.png" width="250" height="auto">
 
 - 2 Part experiment: Gesture Recognition and Speech To Text 
 - 4 Curated questionnaires
