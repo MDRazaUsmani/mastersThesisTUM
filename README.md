@@ -21,7 +21,7 @@ A VR experience where the user interacts with LLM powered NPCs using gestures
 - Test image recognition capabilities of LLMs out-of-the-box
 - Underresearched topic
 
-**KEYWORDS:** LLM, NPC, Gesture Recognition, VR
+**Keywords:** _LLM, NPC, Gesture Recognition, VR_
 
 ### RESEARCH QUESTIONS
 
@@ -38,9 +38,9 @@ A VR experience where the user interacts with LLM powered NPCs using gestures
 ### SCENE DEVELOPMENT
 _Design Principles:_ 
 
-- Minimalistic: Low cost on performance, minimal UI, out-of-the-box performance testing
-- Accessible: Widely Available and cheap/free hardware/software, ease of use for all demographic
-- Immersive: Realistic scenario setup, animated avatars
+- **Minimalistic:** Low cost on performance, minimal UI, out-of-the-box performance testing
+- **Accessible:** Widely Available and cheap/free hardware/software, ease of use for all demographic
+- **Immersive:** Realistic scenario setup, animated avatars
 
 _Tools:_
 
