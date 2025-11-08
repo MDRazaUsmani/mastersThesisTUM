@@ -1,6 +1,9 @@
 # mastersThesisTUM
 **TOPIC:** Evaluating the Efficiency of Human-AI Interaction in Virtual Reality Using Foundation Models
 
+<img src="/images/inside.png" width="200" height="100"><img src="/images/outside.png" width="200" height="100">
+
+
 ![Detailed Quest Desing](/images/QuestFlowDetailed.png "Detailed Quest Flow Diagram")
 
 **ABOUT:** A VR experience where the user interacts with LLM powered NPCs using gestures
