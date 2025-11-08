@@ -1,6 +1,22 @@
 # mastersThesisTUM
-Topic: **Evaluating the Efficiency of Human-AI Interaction in Virtual Reality Using Foundation Models**
+**TOPIC:** Evaluating the Efficiency of Human-AI Interaction in Virtual Reality Using Foundation Models
 
-About: A VR experience where the user interacts with LLM powered NPCs using gestures
+**ABOUT:** A VR experience where the user interacts with LLM powered NPCs using gestures
 
-Study: 2 Part experiment: Gesture Recognition and Speech To Text
+**KEYWORDS:** LLM, NPC, Gesture Recognition, VR
+
+**RESEARCH QUESTIONS**
+- RQ1:  How accurately can the model identify the user’s gesture?
+- RQ2: How quickly can the model read the user’s gesture?
+- RQ3: How does the model impact the user experience in a given scenario? (uniqueness of responses)
+
+**STUDY:** 
+- 2 Part experiment: Gesture Recognition and Speech To Text
+- 4 Curated questionnaires
+- Post-study discussion
+
+**SCENE DEVELOPMENT**
+_Design Principles:_ 
+- Minimalistic: Low cost on performance, minimal UI
+- Accessible: Widely Available and cheap/free hardware/software, ease of use for all demographic
+- Immersive: Realistic scenario setup, animated avatars
