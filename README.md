@@ -1,10 +1,10 @@
-# mastersThesisTUM
-<h1>TOPIC:</h1> <h2>[Evaluating the Efficiency of Human-AI Interaction in Virtual Reality Using Foundation Models](/MastersThesis-CIT-VR-03737381.pdf)</h2>
+# [Evaluating the Efficiency of Human-AI Interaction in Virtual Reality Using Foundation Models](/MastersThesis-CIT-VR-03737381.pdf) 
 
 <img src="/images/outside.png" width="400" height="auto"><img src="/images/inside.PNG" width="400" height="auto">
 
 
-**ABOUT:** A VR experience where the user interacts with LLM powered NPCs using gestures
+### ABOUT
+A VR experience where the user interacts with LLM powered NPCs using gestures
 
 <img src="/images/GRM_Pose2.png" width="250" height="auto"><img src="/images/GRM_Think.png" width="250" height="auto"><img src="/images/GRM_Answer.png" width="250" height="auto">
 
@@ -15,7 +15,7 @@
 5. Additionally the user gets to interact with a shopping environment where they meet more such npcs
 6. The user's shopping task involves collecting items from a generated shopping list based on the items in the shop
 
-**MOTIVATION:** 
+### MOTIVATION 
 
 - Test Gestures as a viable input method
 - Test image recognition capabilities of LLMs out-of-the-box
@@ -23,22 +23,19 @@
 
 **KEYWORDS:** LLM, NPC, Gesture Recognition, VR
 
-**RESEARCH QUESTIONS**
+### RESEARCH QUESTIONS
 
 - RQ1:  How accurately can the model identify the user’s gesture?
 - RQ2: How quickly can the model read the user’s gesture?
 - RQ3: How does the model impact the user experience in a given scenario? (uniqueness of responses)
 
-**STUDY:** 
-
-
+### STUDY
 - 2 Part experiment: Gesture Recognition and Speech To Text 
 - 4 Curated questionnaires
 - Post-study discussion
 - Total Study time (~ 45 mins)
 
-**SCENE DEVELOPMENT**
-
+### SCENE DEVELOPMENT
 _Design Principles:_ 
 
 - Minimalistic: Low cost on performance, minimal UI, out-of-the-box performance testing
@@ -65,7 +62,7 @@ _Quest Design:_
 3. Task Completion
 
 
-**RESULTS -  Gesture Recognition:**
+### RESULTS -  Gesture Recognition
 
 - High average response time per pose: 6.83s
 - Moderate response accuracy: 73.6%
